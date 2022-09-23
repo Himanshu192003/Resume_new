@@ -1,0 +1,113 @@
+body{
+  text-align: center;
+  margin-top: 0;
+  font-family: 'Merriweather', serif;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  width:5%;
+  border-color:grey;
+
+}
+.top-cointainer {
+  background-color:#E4F5F9 ;
+  margin-top: 0;
+  padding-top: 100px;
+  position: relative;
+}
+.profile{
+  width: 50%;
+  margin: 50px auto 50px auto;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  line-height: 3;
+  margin-top: 100px;
+}
+h1{
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  color: #66BFBF;
+}
+h2{
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  line-height: 2;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  font-size: 1.75rem;
+  font-weight: bold;
+}
+.footer-link{
+  color: #11999E;
+  display: inline-block;
+  font-size: 20px;
+  margin: 10px 10px;
+  text-decoration: none;
+}
+.footer-link:hover{
+  color:#EAF6F6;
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Courier New;
+  color: #eff7f6;
+  font-size: 28px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+p{
+font-size: 20px;
+font-weight: bold;
+color: #40514E;
+}
+.pro{
+  text-decoration: underline;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 400px;
+  bottom: 300px;
+}
+.top-cloud{
+position: absolute;
+right: 400px;
+top:50px
+}
+.skill-row{
+  margin: 100px auto 100px auto;
+  width:50%;
+  text-align: left;
+  line-height: 2;
+}
+.me{
+  height: 300px;
+  width: 300px;
+}
+.boxing{
+  width: 15%;
+  float:left;
+  margin-right: 30px;
+}
+.basketball{
+  width: 15%;
+  float:right;
+  margin-left: 30px;
+}
+.foot{
+  color: #EAF6F6;
+}
